@@ -53,10 +53,10 @@ I've worked with Python, C/C++, SQL, Django, and HTML. See more tools down below
 
 </p>
   
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zura1z&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
+</p>
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Zura1z&show_icons=true">
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
-</p>
+
