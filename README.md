@@ -52,6 +52,10 @@ I've worked with Python, C/C++, SQL, Django, and HTML. See more tools down below
 <img alt='OracleSQL' src="https://img.shields.io/badge/OracleSQL-OracleSQL?style=for-the-badge&logo=oracle&color=F80000"/>
 
 </p>
+  
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zura1z&show_icons=true">
 </p>
