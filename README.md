@@ -19,7 +19,7 @@ You can find me on,
 Hi, I’m Zuraiz Zahoor!
 
 I’m Currently from Pakistan, going into my 6th semester at FAST NUCES, Islamabad, majoring in Artificial Intelligence. My technical expertise currently lies with Machine Learning, Deep Learning, Deep Q Learning, Natural Language Processing, and Python Django Developer. 
-I've worked with Python, C/C++, SQL, Django, and HTML. See more tools down below. I also have Specializations in Python for Everybody Specialization from the University of Michigan, AI Foundations for Everyone Specialization from IBM, and many more.
+As a Machine Learning practitioner, my expertise lies in building data driven project and applications. Specifically my expertise are to use ML models to solve problem at hand. Process starts from scratches of data distributions, representations, reduction and reach at top end of delivering a generic API to work with other applications. I'm open to work with data and ML frameworks. + Data Reduction + Data Visualization + Machine Learning + Neural Networks + Evaluation methodologies (for both image and text data). Contact for model training, image processing, Data Science projects etc.
 
 ## Tech Stack
 
