@@ -54,7 +54,7 @@ As a Machine Learning practitioner, my expertise lies in building data driven pr
 </p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zura1z&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zura1z&hide=java,html,tex&title_color=ff6e96&text_color=f8f8f2&icon_color=79dafa&bg_color=282a36&langs_count=3">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Zura1z&show_icons=true">
 </p>
