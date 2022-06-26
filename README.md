@@ -22,17 +22,17 @@ I am a student of Artificial Intelligence and currently in 6/8th semester. Last 
 
 
 TECHNICAL SKILLS:
-• Machine Learning
-• Natural Language Processing: Nltk, spaCy, Regex, huggingface, sentence-transformers
-• Web Scraping: Beautiful Soup, Scrapy, Selenium
-• Database: MongoDB, SQLite, MySQL
-• Programming: Python 
+• Machine Learning <br>
+• Natural Language Processing: Nltk, spaCy, Regex, huggingface, sentence-transformers<br>
+• Web Scraping: Beautiful Soup, Scrapy, Selenium<br>
+• Database: MongoDB, SQLite, MySQL<br>
+• Programming: Python <br>
  
 AREA OF EXPERTISE:
-• Natural language processing (NLP): Text Mining, Information Extraction, Grammar Correction, Semantic Similarity Search, NLP based Automation, Word sense disambiguation, Clustering based recommendations, Transfer Learning
-• Machine Learning
-• Deep Learning
-• SQL: MySQL, MySQL Server 
+• Natural language processing (NLP): Text Mining, Information Extraction, Grammar Correction, Semantic Similarity Search, NLP based Automation, Word sense disambiguation, Clustering based recommendations, Transfer Learning<br>
+• Machine Learning<br>
+• Deep Learning<br>
+• SQL: MySQL, MySQL Server <br>
 
 ## Tech Stack
 
