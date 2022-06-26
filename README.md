@@ -16,10 +16,23 @@ You can find me on,
 
 <h2 align="left">Biography</h2>
 
-Hi, I’m Zuraiz Zahoor!
+Hi, Zuraiz here!
 
-I’m Currently from Pakistan, going into my 6th semester at FAST NUCES, Islamabad, majoring in Artificial Intelligence. My technical expertise currently lies with Machine Learning, Deep Learning, Deep Q Learning, Natural Language Processing, and Python Django Developer. 
-As a Machine Learning practitioner, my expertise lies in building data driven project and applications. Specifically my expertise are to use ML models to solve problem at hand. Process starts from scratches of data distributions, representations, reduction and reach at top end of delivering a generic API to work with other applications. I have worked extensively on Dimentionality Reduction + Data Visualization + Machine Learning + Neural Networks + Evaluation methodologies (for both image and text data). 
+I am a student of Artificial Intelligence and currently in 6/8th semester. Last year I got an opportunity to join an artificial intelligence research lab in my university as an intern. Right now I am working as Junior AI engineer on some very interesting projects at the same lab. I am always open to collaboration and discussion on topics such as: Data Science, AI, Blockchain, and NFTs.
+
+
+TECHNICAL SKILLS:
+• Machine Learning
+• Natural Language Processing: Nltk, spaCy, Regex, huggingface, sentence-transformers
+• Web Scraping: Beautiful Soup, Scrapy, Selenium
+• Database: MongoDB, SQLite, MySQL
+• Programming: Python 
+ 
+AREA OF EXPERTISE:
+• Natural language processing (NLP): Text Mining, Information Extraction, Grammar Correction, Semantic Similarity Search, NLP based Automation, Word sense disambiguation, Clustering based recommendations, Transfer Learning
+• Machine Learning
+• Deep Learning
+• SQL: MySQL, MySQL Server 
 
 ## Tech Stack
 
