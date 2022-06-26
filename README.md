@@ -21,14 +21,14 @@ Hi, Zuraiz here!
 I am a student of Artificial Intelligence and currently in 6/8th semester. Last year I got an opportunity to join an artificial intelligence research lab in my university as an intern. Right now I am working as Junior AI engineer on some very interesting projects at the same lab. I am always open to collaboration and discussion on topics such as: Data Science, AI, Blockchain, and NFTs.
 
 
-TECHNICAL SKILLS:
+TECHNICAL SKILLS:<br>
 • Machine Learning <br>
 • Natural Language Processing: Nltk, spaCy, Regex, huggingface, sentence-transformers<br>
 • Web Scraping: Beautiful Soup, Scrapy, Selenium<br>
 • Database: MongoDB, SQLite, MySQL<br>
 • Programming: Python <br>
  
-AREA OF EXPERTISE:
+AREA OF EXPERTISE:<br>
 • Natural language processing (NLP): Text Mining, Information Extraction, Grammar Correction, Semantic Similarity Search, NLP based Automation, Word sense disambiguation, Clustering based recommendations, Transfer Learning<br>
 • Machine Learning<br>
 • Deep Learning<br>
