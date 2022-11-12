@@ -18,7 +18,7 @@ You can find me on,
 
 Hi, Zuraiz here!
 
-I am pursuing Bachelors in Artificial Intelligence. Last year I got an opportunity to join an artificial intelligence research lab in my university as an intern. Right now I am working as Junior AI engineer on some very interesting projects at the same lab. I am always open to collaboration and discussion on topics such as: Data Science, AI, Blockchain, and NFTs.
+I am pursuing Bachelors in Artificial Intelligence. I have worked on AI projects and research in a AIM lab at FAST. Right now I am working as a web3 developer at The 1 Club where we are trying to redefine the 1%. I am always open to collaboration and discussion on topics such as: Data Science, AI, and web projects.
 
 
 TECHNICAL SKILLS:<br>
