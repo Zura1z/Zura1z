@@ -22,7 +22,7 @@ I am pursuing Bachelors in Artificial Intelligence. I have worked on AI projects
 
 
 TECHNICAL SKILLS:<br>
-• Machine Learning <br>
+• Machine Learning, Deep learning, Computer Vision <br>
 • Natural Language Processing: Nltk, spaCy, Regex, huggingface, sentence-transformers<br>
 • Web Scraping: Beautiful Soup, Scrapy, Selenium<br>
 • Database: MongoDB, SQLite, MySQL<br>
