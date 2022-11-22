@@ -2,7 +2,7 @@
 
 <h2 align="left">Personal Links</h2>
 
-You can find me on,
+You can find me on
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zuraiz-ajaz-608852199"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
