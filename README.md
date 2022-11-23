@@ -68,8 +68,8 @@ AREA OF EXPERTISE:<br>
 </p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zura1z&hide=java,html,tex&title_color=ff6e96&text_color=14213D&icon_color=79dafa&bg_color=282a36&langs_count=3">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zura1z&hide=java,html,tex&title_color=14213D&text_color=14213D&icon_color=79dafa&bg_color=FCA311&langs_count=3">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Zura1z&show_icons=true&title_color=ff6e96&text_color=14213D&icon_color=79dafa&bg_color=282a36">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zura1z&show_icons=true&title_color=14213D&text_color=14213D&icon_color=79dafa&bg_color=FCA311">
 </p>
 
