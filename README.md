@@ -18,7 +18,7 @@ You can find me on
 
 Hi, Zuraiz here!
 
-I am pursuing Bachelors in Artificial Intelligence. I have worked on AI projects and research in a AIM lab at FAST. Right now I am working as a Web3 developer at The 1 Club where we are trying to redefine the 1%. I am always open to collaboration and discussion on topics such as: Data Science, AI, and web projects.
+I am pursuing Bachelors in Artificial Intelligence. I have worked on AI projects and research in a AIM lab at FAST. Right now I am working as a Web3 developer at The 1 Club where we are trying to redefine the 1%. I am always open to collaboration and discussion on topics such as: Data Science, AI, and web related projects.
 
 
 TECHNICAL SKILLS:<br>
