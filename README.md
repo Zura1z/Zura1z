@@ -32,7 +32,7 @@ AREA OF EXPERTISE:<br>
 • Natural language processing (NLP): Text Mining, Information Extraction, Grammar Correction, Semantic Similarity Search, NLP based Automation, Word sense disambiguation, Clustering based recommendations, Transfer Learning<br>
 • Machine Learning<br>
 • Deep Learning<br>
-• Computer Vision: Pose Estimation<br> <br>
+• Computer Vision: Pose Estimation, 3D Recontruction<br> <br>
 
 ## Tech Stack
 
