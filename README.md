@@ -27,6 +27,7 @@ TECHNICAL SKILLS:<br>
 • Web Scraping: Beautiful Soup, Scrapy, Selenium<br>
 • Database: MongoDB, SQLite, MySQL<br>
 • Programming language: Python, Javasript, C++, Golang<br>
+• Website builders: Wordpress, Webflow<br>
  
 AREA OF EXPERTISE:<br>
 • Natural language processing (NLP): Text Mining, Information Extraction, Grammar Correction, Semantic Similarity Search, NLP based Automation, Word sense disambiguation, Clustering based recommendations, Transfer Learning<br>
