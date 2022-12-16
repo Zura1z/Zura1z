@@ -18,22 +18,39 @@ You can find me on
 
 Hi, Zuraiz here!
 
-I am pursuing Bachelors in Artificial Intelligence. I have worked on AI projects and research in a AIM lab at FAST. Right now I am working as a Web3 developer at The 1 Club where we are trying to redefine the 1%. I am always open to collaboration and discussion on topics such as: Data Science, AI, and web related projects.
+As a current university student pursuing a bachelor's degree in artificial intelligence, I am committed to staying up-to-date with the latest developments and techniques in the field. 
 
+As a highly motivated and hardworking individual, I have a strong passion for problem solving and a proven track record of success in both machine learning engineering and web development. 
 
-TECHNICAL SKILLS:<br>
-• Machine Learning, Deep learning, Computer Vision <br>
-• Natural Language Processing: Nltk, spaCy, Regex, huggingface, sentence-transformers<br>
-• Web Scraping: Beautiful Soup, Scrapy, Selenium<br>
-• Database: MongoDB, SQLite, MySQL<br>
-• Programming language: Python, Javasript, C++, Golang<br>
-• Website builders: Wordpress, Webflow<br>
- 
-AREA OF EXPERTISE:<br>
-• Natural language processing (NLP): Text Mining, Information Extraction, Grammar Correction, Semantic Similarity Search, NLP based Automation, Word sense disambiguation, Clustering based recommendations, Transfer Learning<br>
-• Machine Learning<br>
-• Deep Learning<br>
-• Computer Vision: Pose Estimation, 3D Recontruction<br> <br>
+With experience in the field of artificial intelligence, I am skilled at developing unique solutions to complex challenges. 
+
+My experience as a web developer has also given me a deep understanding of the latest technologies and a versatile skill set that allows me to tackle a wide range of projects. 
+
+I am committed to continuously learning and improving, and I am eager to apply my skills and knowledge to help drive success in any organization.
+
+As a machine learning engineer, I have expertise in the following technologies, skills, and languages:
+
+Machine learning libraries and frameworks, such as TensorFlow, Keras, and scikit-learn
+Programming languages, such as Python, R
+Data manipulation and analysis, using tools such as Pandas and SQL
+Data visualization, using tools such as Matplotlib and Seaborn
+Natural language processing, using techniques such as sentiment analysis and topic modeling
+Computer vision, using techniques such as image classification and object detection
+Deep learning, using techniques such as convolutional neural networks and recurrent neural networks
+Cloud computing platforms, such as AWS and GCP, for deploying machine learning models at scale
+
+As a web developer, I have expertise in the following technologies, skills, and languages:
+
+Front-end technologies, such as HTML, CSS, and JavaScript
+Back-end languages, such as Python, Typescript
+Web frameworks, such as React, Django
+Responsive design, using tools such as Bootstrap and Foundation
+Content management systems and website building tools, such as WordPress and Webflow
+Database management, using tools such as MySQL and MongoDB
+Version control, using tools such as Git and GitHub
+Agile development methodologies, such as 
+
+In addition to these technical skills, I also possess strong problem-solving abilities, excellent communication and collaboration skills, and a deep passion for the field of artificial intelligence.
 
 ## Tech Stack
 
