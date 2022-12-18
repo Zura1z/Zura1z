@@ -16,8 +16,6 @@ You can find me on
 
 <h2 align="left">Biography</h2>
 
-Hi, Zuraiz here!
-
 As a current university student pursuing a bachelor's degree in artificial intelligence, I am committed to staying up-to-date with the latest developments and techniques in the field. 
 
 As a highly motivated and hardworking individual, I have a strong passion for problem solving and a proven track record of success in both machine learning engineering and web development. 
