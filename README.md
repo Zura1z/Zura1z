@@ -11,7 +11,6 @@ You can find me on
   <!-- <a href="https://stackoverflow.com"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a> -->
   <a href="https://www.coursera.org/user/4b78ca471a492d669dfd6b8d129a2f91"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
   <a href="https://www.kaggle.com/zuraiz"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>
-
 </p>
 
 <h2 align="left">Biography</h2>
