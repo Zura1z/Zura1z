@@ -18,7 +18,7 @@ You can find me on
 # 💫 About Me:
 As a current university student pursuing a bachelor's degree in artificial intelligence, I am committed to staying up-to-date with the latest developments and techniques in the field.<br><br>As a highly motivated and hardworking individual, I have a strong passion for problem solving and a proven track record of success in both machine learning engineering and web development.<br><br>With experience in the field of artificial intelligence, I am skilled at developing unique solutions to complex challenges.<br><br>My experience as a web developer has also given me a deep understanding of the latest technologies and a versatile skill set that allows me to tackle a wide range of projects.<br><br>I am committed to continuously learning and improving, and I am eager to apply my skills and knowledge to help drive success in any organization.<br><br><br>
 
-🔭 I’m currently working on website for an web3 backed exclusive private membership club based in London, global virtual PA portal, a grading assistant platform to reduce workload of teachers by 30%<br><br>
+🔭 I’m currently working on website for an web3 backed exclusive private membership club based in London, global virtual PA portal, and a grading assistant platform to reduce workload of teachers by 30%<br><br>
 👯 I’m looking to collaborate on projects related to Machine/Deep Learning, Computer Vision, Natural Language Processing<br><br>
 🌱 I’m currently learning React Redux, and MLOps<br><br>
 💬 Ask me about Machine/Deep Learning models, Artificial Intelligence, Web Development<br><br>
