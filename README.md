@@ -7,7 +7,7 @@ You can find me on
 <p align="left">
   <a href="https://www.linkedin.com/in/zuraiz-ajaz-608852199"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://twitter.com/zura1z"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:zuraizzahoorajaz@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/</a>
+  <a href="mailto:zuraizdotio@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/</a>
   <!-- <a href="https://stackoverflow.com"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a> -->
   <a href="https://www.coursera.org/user/4b78ca471a492d669dfd6b8d129a2f91"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
   <a href="https://www.kaggle.com/zuraiz"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>
