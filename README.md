@@ -17,7 +17,7 @@ You can find me on
 
 # 💫 About Me:
 AI engineer & full-stack developer building robust tools across AI, SaaS, and Web3. I've led product development for startups in the UK and Germany — from architecting AI grading tools to launching revenue-generating member platforms and marketplaces.
-<br><br><br>
+<br><br>
 
 🔭 I’m currently working on website for an web3 backed exclusive private membership club based in London, global virtual PA portal, and a grading assistant platform to reduce workload of teachers by 30%<br><br>
 👯 I’m looking to collaborate on projects related to Machine/Deep Learning, Computer Vision, Natural Language Processing<br><br>
@@ -28,7 +28,6 @@ AI engineer & full-stack developer building robust tools across AI, SaaS, and We
 📄 Know about my experiences: My <a href="https://drive.google.com/file/d/1Qpz-9lxh5rhtm4_5HKx2mxo3zQAA1rrc/view">Resume</a><br><br>
 
 ⚡ Fun fact: I love playing Chess<br><br><br>
-As a machine learning engineer, I have expertise in the following technologies, skills, and languages:<br><br>Machine learning libraries and frameworks, such as TensorFlow, Keras, and scikit-learn Programming languages, such as Python, R Data manipulation and analysis, using tools such as Pandas and SQL Data visualization, using tools such as Matplotlib and Seaborn Natural language processing, using techniques such as sentiment analysis and topic modeling Computer vision, using techniques such as image classification and object detection Deep learning, using techniques such as convolutional neural networks and recurrent neural networks Cloud computing platforms, such as AWS and GCP, for deploying machine learning models at scale<br><br>As a web developer, I have expertise in the following technologies, skills, and languages:<br><br>Front-end technologies, such as HTML, CSS, and JavaScript Back-end languages, such as Python, Typescript Web frameworks, such as React, Django Responsive design, using tools such as Bootstrap and Foundation Content management systems and website building tools, such as WordPress and Webflow Database management, using tools such as MySQL and MongoDB Version control, using tools such as Git and GitHub Agile development methodologies, such as<br><br>In addition to these technical skills, I also possess strong problem-solving abilities, excellent communication and collaboration skills, and a deep passion for the field of artificial intelligence.
 
 
 ## 🌐 Socials:
