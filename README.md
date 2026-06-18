@@ -23,8 +23,7 @@ AI engineer & full-stack developer building robust tools across AI, SaaS, and We
 👯 I’m looking to collaborate on projects related to Machine/Deep Learning, Computer Vision, Natural Language Processing<br><br>
 🌱 I’m currently learning React Redux, and MLOps<br><br>
 💬 Ask me about Machine/Deep Learning models, Artificial Intelligence, Web Development<br><br>
-// 👨‍💻 All of my projects are available at <a href="https://www.zuraiz.io">Zuraiz.io</a><br><br>
-// 📫 How to reach me: zuraizdotio@gmail.com<br><br>
+
 📄 Know about my experiences: My <a href="https://drive.google.com/file/d/1Qpz-9lxh5rhtm4_5HKx2mxo3zQAA1rrc/view">Resume</a><br><br>
 
 ⚡ Fun fact: I love playing Chess<br><br><br>
